@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : pranay
+bot : 
+user : i have cold
+bot : - You should take a sudafed tablet after your meal.
+user : my troat is sour
+bot : - Okay, this is a symptom of cough , do you have cough?
+user : no
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : headache vomiting blood from nose
+bot : - - Bye bye
+user : headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : migrane headache
+bot : - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?
